@@ -36,3 +36,25 @@ const myFunction = function(){
 console.log(typeof anotherId);
 
 // https://262.ecma-international.org/5.1/#sec-11.4.3
+
+
+// stack and heap memory
+
+// creates copy
+let myname="kalpak";
+let yourname=myname;
+yourname="pranay";
+
+console.log(myname);
+console.log(yourname);
+
+// gives refference
+let userOne={
+    email:"kalpak@gmail.com",
+    upi:"gpay"
+}
+let userTwo=userOne;
+
+userTwo.email="pranay@gmail.com";
+console.log(userOne.email);
+console.log(userTwo.email);
