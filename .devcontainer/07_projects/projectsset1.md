@@ -1,7 +1,8 @@
 # Projects related to DOM
 
 ## project link
-[Click here](https://stackblitz.com/edit/dom-project-chaiaurcode?file=index.html)
+[Click here](https://stackblitz.com/edit/dom-project-chaiaurcode?file=index.html) 
+// I learn from Hitesh sir Yt channel (Chai our code ) that's why I am giving this link for more understanding
 
 # Solution code
 
